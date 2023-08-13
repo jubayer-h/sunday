@@ -1,4 +1,7 @@
 
+hello i did sucesfully of 3 third commit and now i will pull commit
+
+
 
 I see perfectly message of local repository
 i add to remote repositoy again for pull
