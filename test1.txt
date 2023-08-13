@@ -1,2 +1,8 @@
+
+
+I add clone at the local repository
+
+
+
 hello today is sunday and i start lering again git tutorial
 let see how is going
