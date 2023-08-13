@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -6,9 +7,18 @@ Will be working
 
 
 
+=======
+working at gui website 
+>>>>>>> ad2a2ad2a66eee65a274696451352f07e89f311e
 
 Is not working try to re send push
 Branch: working termeinalq
+
+2nd time branch fixed from branch of branching
+
+im working on bug fixing at branching 
+
+
 
 hello i did sucesfully of 3 third commit and now i will pull commit
 
